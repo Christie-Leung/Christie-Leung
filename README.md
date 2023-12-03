@@ -1,9 +1,20 @@
-Wow I see that SEO has brought you to my page! Or maybe you just followed a lot of links that eventually led you here. 
-Well regardless of how you found me, hey! Hope you're having a great day! Let me start by introducing myself.
+##### :exclamation: Wow I see that SEO has brought you to my page! Or maybe you just followed a lot of links that eventually led you here.</span></p>
 
-My name is Christie (she/her) and I love coding! *if you didn't already know from the amount of projects I have here* Let me be more specific; I love helping others through creating softwares or tools by coding, whether that's by bringing joy to their life, increasing their productivity or solving world problems. And that sort of relates to the beginnings of my software engineering journey which I would say is pretty unique. 
+My name is Christie (she/her) and I love coding! *(if you didn't already know from the amount of projects I have here)* Let me be more specific; I love helping others through creating softwares or tools by coding, whether that's by bringing joy to their life, increasing their productivity or solving world problems. And that sort of relates to the beginnings of my software engineering journey which I would say is pretty unique. But I won't bore you with all the information right now. 
 
-### 🌱 How did I get into coding?
+### ⚡ Quick Summary:
+- Pursing a BSc. in Computer Science, minor in Mathematics at UBC (expected grad: May 2025)
+- Currently redoing my [personal website](http://christie.murphyshome.net/)* by apply software engineering principles in hopes of having better evolvability
+- Passionate about Deep Learning and its implications on teaching humans how to learn more effectively and efficiently using visualization of neural nets
+- Started Coding through Game Dev, specifically coding Minecraft Plugins for a small server
+- Too many ideas, too little time, BUT I'm excited regardless!
+
+> [!NOTE]
+> At the time of writing, the current website version is old. 
+
+<details>
+  <summary>🌱 How did I get into coding?</summary>
+  <br/>
 Surprisingly *or maybe not surprisingly*, I didn't start by following the traditional path of taking courses in high school or university and eventually working my way up here. My inspirations started way back in Grade 5 when I first moved (*back*) to Canada. 
 
 There was one person in my class that was very smart and always talked about getting "certificates" on learning a programming language, being able to do things like hacking (not seriously of course). Because of that, I also looked into programming and *for some reason*, chose to start with Ruby. To the little me, it seemed similar to english so I thought it was the easiest. It was also partly influenced by having the same name as one of the characters in my favourite cartoon *Jewelpet* at the time. If I remember correctly, I started learning using codecademy. 
@@ -16,8 +27,14 @@ The real opportunity happened when the owner started this thing called "Dev Trai
 
 I have to say, there was a HUGE learning curve when I started these projects. I remember one night, sitting in bed and trying to get this one little thing to work. It was one of my most memorable experiences in all my coding journey. I coded until I saw glimpse of light coming from my window. But the thing was, I was so excited that I didn't even feel tired. I completely lost track of time and it was as if time stopped in that moment. It still feels magical to me nowadays and is probably how I knew, coding is something I must do.
 
-### 🤔 So what am I up to nowadays?
-Currently, I'm pursuing a Bachelors of Science at UBC, majoring in Computer Science *yes very surprising* and a minor in Mathematics. 
+</details>
+
+<details>
+  <summary>
+    🤔 So what am I up to nowadays?
+  </summary>
+  <br />
+  Currently, I'm pursuing a Bachelors of Science at UBC, majoring in Computer Science *yes very surprising* and a minor in Mathematics. 
 
 Now within Computer Science, the thing that gets my blood boiling the most is talking about Deep Learning. The way neural network mimic neurons in our brain fascinates me and this led me to wonder how accurately can we actually mimic a brain. Within the neuroscience community, there is still much to be explored and we don't know everything about our brains yet but that's a topic for another time. What I want to do with deep learning, is do something called meta-learning I believe. I want to use a neural network to train an model to learn, then unpack the nodes within the net to see HOW it learnt *so basically visualization of a neural network*. This can then translate to how us humans can learn most effectively and efficiently. Now this is just an idea for now but it is what I'm working up towards. So what am I actually doing now?
 
@@ -25,6 +42,7 @@ Now within Computer Science, the thing that gets my blood boiling the most is ta
 Recently, I became very interested in software engineering principles and finally realized the importance and usefulness of it. So I'm applying these principles to see how I can make my personal website better, while also redesigning the entire page *again*. BUT, the goal is to use these principles to make it more evolvable so I don't have to scrap the entire website again and build it from scratch. On my website, I plan to run a blog and also incorporate mini games that can be played on the website so I am also looking into developing APIs to have these systems be more independent. 
 
 At the time of writing this, my website is still using the old version since I'm on the stage of planning the structure and using UML diagrams and state diagrams *for once*. Since it is my first time applying these concepts on a real project, it might take me a while until touching the code. But feel free to check out my page and track my progress here: http://christie.murphyshome.net/
+</details>
 
 If you want to ask me any questions or just want to chat with me, feel free to reach out in any of these platforms:
 - LinkedIn: https://www.linkedin.com/in/christie-leung-dev/
