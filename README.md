@@ -3,7 +3,7 @@
 My name is Christie (she/her) and I love coding! *(if you didn't already know from the amount of projects I have here)* Let me be more specific; I love helping others through creating softwares or tools by coding, whether that's by bringing joy to their life, increasing their productivity or solving world problems. And that sort of relates to the beginnings of my software engineering journey which I would say is pretty unique. But I won't bore you with all the information right now. 
 
 ### ⚡ Quick Summary:
-- Pursing a BSc. in Computer Science, minor in Mathematics at UBC (expected grad: May 2025)
+- Pursing a BSc. in Computer Science, minor in Mathematics at UBC (expected grad: Nov 2025)
 - Currently redoing my [personal website](http://christie.murphyshome.net/)* by apply software engineering principles in hopes of having better evolvability
 - Passionate about Deep Learning and its implications on teaching humans how to learn more effectively and efficiently using visualization of neural nets
 - Started Coding through Game Dev, specifically coding Minecraft Plugins for a small server
