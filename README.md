@@ -6,7 +6,7 @@ I'm a **Full-Stack Software Engineer** passionate about building clean, scalable
 
 ### 💻 What I Work On
 - **Frontend:** React, Next.js, Tailwind, Vite, TypeScript
-- **Backend:** Node.js, Java (Spring Boot), Python, Firebase
+- **Backend:** Node.js, Java (Spring Boot), Python, Firebase, Typescript
 - **Cloud & DevOps:** AWS (Lambda, EC2, S3, CloudFront), GCP, Docker
 - **AI/ML:** OpenAI APIs, prompt engineering, ML model deployment
 
