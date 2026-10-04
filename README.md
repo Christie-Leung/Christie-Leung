@@ -1,40 +1,18 @@
-# 👋 Hi, I'm Christie (she/her)
+# hii, it seems you've landed on my page
 
-I'm a **Full-Stack Software Engineer** passionate about building clean, scalable applications that create real value — whether it's boosting productivity, powering AI agents, or creating immersive game experiences.
+i'm christie! i go by she/her. i'm currently working as a forward deployed engineer at meaningful and i do have to say the work i do feels very meaningful to me.
 
----
+Outside of work, i love problem solving and building many management related applications because i have too many things going on in my life and need something to help with my chaotic yet fulfilling life.
 
-### 💻 What I Work On
-- **Frontend:** React, Next.js, Tailwind, Vite, TypeScript
-- **Backend:** Node.js, Java (Spring Boot), Python, Firebase, Typescript
-- **Cloud & DevOps:** AWS (Lambda, EC2, S3, CloudFront), GCP, Docker
-- **AI/ML:** OpenAI APIs, prompt engineering, ML model deployment
+some things ive been working on or have worked on:
+- [snug](https://snug.clsy.ca)
+- [calfriender](https://calfriender.clsy.ca)
+- [glassproof](https://glassproof.vercel.app)
+- [streakshub](https://streakshub.xyz)
 
----
+### socials
 
-### 🚀 Recent Highlights
-- 🛍️ Building an **AI-powered Shopify app** at Brandmachine GmbH (TypeScript, Liquid, GCP)
-- ⏱️ Developed real-time waitlist, notification features, and many more @ Common Ground (AWS Lambda, SQL, Typescript)
-- 🧠 1st Place @ MLH TechTogether (MentHer) | 2nd @ UBC Learning Analytics Hackathon
-- 🧙‍♀️ Developed immersive **Bukkit plugins** for a Harry Potter-themed Minecraft server  
-  (Java, Gradle, spells duelling, voting)
+- 🔗 [linkedin](https://www.linkedin.com/in/christie-leung-dev/)
+- 🌐 [website](http://christie.murphyshome.net/) _(currently evolving – stay tuned!)_
 
----
-
-### 🌱 A Bit About Me
-Currently on exchange at **TUM (Technical University of Munich)** while completing a **B.Sc. in Computer Science (Minor in Math)** at **UBC**, graduating **May 2026**.
-
-Outside of code, you’ll probably find me:
-- 🎸 Learning guitar & singing with a local band
-- 📸 Creating content to inspire others through *“Your life is what you make of it”*
-- ✈️ Traveling around Europe, café-hopping and collecting stories
-
----
-
-### 📫 Let’s Connect
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/christie-leung-dev/)
-- 🌐 [Personal Website](http://christie.murphyshome.net/) _(currently evolving – stay tuned!)_
-- 📷 [Instagram](https://www.instagram.com/christiee.leungg/)
-
-Thanks for stopping by 💛 Feel free to explore my repos or say hi!
+thanks for stopping by!! 🩵 
