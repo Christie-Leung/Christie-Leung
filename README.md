@@ -1,4 +1,6 @@
-hii, i'm christie! i go by she/her. i'm currently working as a forward deployed engineer at meaningful and i do have to say the work i do feels very meaningful to me. i love working directly with clients to help build out their vision by working on end-to-end systems. i also have a keen eye for a good uiux and will ensure clients are happy not only with the functionality but the entire process of using a product.
+## hii, i'm christie (she/her)! 
+
+i'm currently working as a forward deployed engineer at meaningful and i do have to say the work i do feels very meaningful to me. i love working directly with clients to help build out their vision by working on end-to-end systems. i also have a keen eye for a good uiux and will ensure clients are happy not only with the functionality but the entire process of using a product.
 
 other things related to my line of work would be the many personal projects that I build from time to time. they coincidentally all tend toward the management aspect- probably because i am a big planner and organizer and tend to have too many things going on in my life. i need something to help manage my hectic yet fulfilling life and so why not use my skills to help me with those:
 
